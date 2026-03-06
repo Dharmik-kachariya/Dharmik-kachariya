@@ -1,119 +1,129 @@
-<h1 align="center">Hi 👋, I'm Dharmik Kachariya</h1>
-<h3 align="center">🚀 MERN Stack Developer | Full Stack Web Developer</h3>
+<h1 align="center">Dharmik Kachariya</h1>
+
+<h3 align="center">
+MERN Stack Developer | Full Stack Web Developer
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB+Developer;Building+Modern+Web+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=0CF7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB+Developer;Building+Scalable+Web+Applications"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+💻 MERN Stack Developer passionate about building **scalable full-stack web applications**.
 
-🎓 **Bachelor of Computer Applications (BCA)**  
+🎓 Bachelor of Computer Applications (BCA)  
 🏫 Vivekanand College for Advanced Computer & Information Science, Surat  
 
-💼 **MERN Stack Developer Intern – Platinum Tech**
+💼 MERN Stack Developer Intern — Platinum Tech  
 
-📍 **Location:** Surat, Gujarat, India  
+📍 Surat, Gujarat, India
 
-🚀 I love building **Full Stack Web Applications** using the **MERN Stack**.  
-I focus on creating scalable applications with **authentication, dashboards, APIs, and modern UI**.
+🚀 Interested in developing **real-world production applications using MERN Stack**
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-### 👨‍💻 Languages
+### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=js,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap" />
 </p>
 
-### ⚡ Frontend
+### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### ⚙ Backend
+### Database
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🗄 Database
+### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📚 Bookora – MERN Stack Online Book Store
+### 📚 Bookora – MERN Stack Online Book Store
 
-🌐 **Live Demo**  
+🔗 Live Demo  
 https://bookora-frontend-jomg.vercel.app
 
-✨ Features
+Features
 
-✔ Admin & User panels  
-✔ Role-based authentication  
-✔ Book management system  
-✔ Cart & Order system  
-✔ MongoDB Atlas integration  
-✔ Fully responsive UI
+• Role-based authentication  
+• Admin & User dashboard  
+• Book management system  
+• Cart & Order functionality  
+• MongoDB Atlas database  
+• Fully responsive UI
 
-⚙ Tech Stack  
-React • Node.js • Express • MongoDB • Tailwind
+Tech Stack  
+React • Node • Express • MongoDB • Tailwind
 
 ---
 
-## 🎓 Brainera – MERN Stack Learning Management System
+### 🎓 Brainera – MERN Stack Learning Management System
 
-✨ Features
+Features
 
-✔ Visitor, Student & Instructor roles  
-✔ Secure authentication system  
-✔ Course purchase system  
-✔ Video learning system  
-✔ Quiz & certificate generation  
-✔ Razorpay payment integration  
-✔ Cloudinary media storage  
-✔ Notifications & protected routes
+• Visitor, Student & Instructor roles  
+• Secure authentication system  
+• Video-based learning  
+• Quiz system  
+• Certificate generation  
+• Razorpay payment integration  
+• Cloudinary media storage  
+• Notifications & protected routes
 
-⚙ Tech Stack  
-React • Node.js • Express • MongoDB • Tailwind
+Tech Stack  
+React • Node • Express • MongoDB • Tailwind
 
 ---
 
 # 💼 Experience
 
-### 🏢 MERN Stack Developer Intern
-**Platinum Tech**
+### MERN Stack Developer Intern  
+Platinum Tech  
+Dec 2025 – Mar 2026
 
-📅 Dec 2025 – Mar 2026
-
-✔ Developed full-stack web applications using MERN  
-✔ Built REST APIs with CRUD operations  
-✔ Implemented authentication & protected routes  
-✔ Improved UI responsiveness and performance
+• Developed full-stack web applications using MERN  
+• Built REST APIs with CRUD operations  
+• Implemented authentication & protected routes  
+• Improved UI responsiveness and performance
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dharmik-kachariya&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharmik-kachariya&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik-kachariya&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmik-kachariya&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik-kachariya&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmik-kachariya&theme=tokyo-night"/>
 
 </p>
 
@@ -139,20 +149,16 @@ React • Node.js • Express • MongoDB • Tailwind
 
 ---
 
-# 🌍 Languages
+# 👀 Profile Visitors
 
-🇬🇧 English  
-🇮🇳 Hindi  
-🇮🇳 Gujarati
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Dharmik-kachariya&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</p>
 
 ---
 
 # ⭐ Support
 
-If you like my projects, please ⭐ star the repositories and follow me on GitHub.
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Dharmik-kachariya&label=Profile%20views&color=blue&style=for-the-badge"/>
-</p>
+If you like my work, consider **starring the repositories** and following me on GitHub.
