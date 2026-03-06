@@ -101,23 +101,21 @@ Dec 2025 – Mar 2026
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharmik-kachariya&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dharmik-kachariya&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik-kachariya&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik-kachariya&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmik-kachariya&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Dharmik-kachariya&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
 
 # 📈 Contribution Graph
 
