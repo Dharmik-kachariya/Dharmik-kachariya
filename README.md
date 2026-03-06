@@ -3,16 +3,16 @@
 <h3 align="center">MERN Stack Developer | Full Stack Web Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=0CF7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB+Developer;Building+Modern+Web+Applications"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **BCA Student** at Vivekanand College, Surat  
-- 💻 **MERN Stack Developer** passionate about building full-stack applications  
-- 🚀 Experienced in building **authentication systems, dashboards, REST APIs and responsive UI**
+- 🎓 **Bachelor of Computer Applications (BCA)** – Vivekanand College, Surat  
+- 💻 Passionate **MERN Stack Developer**  
+- 🚀 Experienced in building **Full Stack Web Applications, REST APIs, Authentication Systems and Dashboards**
 
 ---
 
@@ -41,24 +41,37 @@
 
 ### 📚 Bookora – MERN Stack Online Book Store
 
+Full-stack online bookstore developed using the **MERN Stack**.
+
+Features:
+
 - Role-based authentication  
 - Admin & User dashboards  
 - Book management system  
-- Cart & order system  
-- MongoDB Atlas integration  
+- Cart & Order functionality  
+- MongoDB Atlas database  
+- Fully responsive UI  
 
-🔗 Live Demo  
+🔗 **Live Demo**  
 https://bookora-frontend-jomg.vercel.app
 
 ---
 
 ### 🎓 Brainera – MERN Stack Learning Management System
 
-- Student / Instructor roles  
-- Video based learning system  
+Full-featured **Learning Management System** built using the MERN stack.
+
+Features:
+
+- Student & Instructor roles  
+- Video-based learning system  
 - Quiz & certificate generation  
 - Razorpay payment integration  
 - Cloudinary media storage  
+- Protected routes & notifications  
+
+🔗 **Live Demo**  
+https://brainera.vercel.app/
 
 ---
 
@@ -82,6 +95,10 @@ https://bookora-frontend-jomg.vercel.app
 
 ## 🌐 Connect With Me
 
+<p>
+
 <a href="https://github.com/Dharmik-kachariya">GitHub</a> |
 <a href="https://linkedin.com/in/kachariya-dharmik">LinkedIn</a> |
-<a href="prajapatidk525@gmail.com">Email</a>
+<a href="mailto:prajapatidk525@gmail.com">Email</a>
+
+</p>
