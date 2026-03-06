@@ -98,7 +98,7 @@ https://brainera.vercel.app/
 <p>
 
 <a href="https://github.com/Dharmik-kachariya">GitHub</a> |
-<a href="https://linkedin.com/in/kachariya-dharmik">LinkedIn</a> |
+<a href="https://www.linkedin.com/in/kachariya-dharmik-131432301/">LinkedIn</a> |
 <a href="mailto:prajapatidk525@gmail.com">Email</a>
 
 </p>
