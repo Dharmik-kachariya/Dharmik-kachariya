@@ -16,6 +16,15 @@
 
 ---
 
+## 🌐 Portfolio
+
+🚀 Check out my personal portfolio website where I showcase my projects, skills, and experience:
+
+🔗 **Portfolio Link**  
+https://dharmikdev.vercel.app/
+
+---
+
 ## 🛠 Tech Stack
 
 <p>
