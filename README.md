@@ -1,18 +1,10 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00F7FF,100:7B2FFF&height=200&section=header&text=Dharmik%20Kachariya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20%7C%20Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00F7FF,100:7B2FFF&height=220&section=header&text=Dharmik%20Kachariya&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=MERN%20Stack%20%7C%20Full%20Stack%20Web%20Developer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=⚡+MERN+Stack+Developer;🚀+Full+Stack+Web+Developer;🧠+React+%7C+Node+%7C+MongoDB+%7C+Next.js;🛠+Building+Modern+Web+Applications;📦+REST+APIs+%7C+Auth+Systems+%7C+Dashboards" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&width=650&lines=%E2%9A%A1+MERN+Stack+Developer;%F0%9F%9A%80+Full+Stack+Web+Developer;%F0%9F%A7%A0+React+%7C+Node+%7C+MongoDB+%7C+Next.js;%F0%9F%9B%A0+Building+Modern+Web+Applications;%F0%9F%93%A6+REST+APIs+%7C+Auth+Systems+%7C+Dashboards" alt="Typing SVG" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -24,23 +16,23 @@
 
 ```js
 const dharmik = {
-  name       : "Dharmik Kachariya",
-  role       : "Full Stack Developer",
-  education  : "BCA – Vivekanand College, Surat",
-  location   : "Surat, Gujarat, India 🇮🇳",
-  stack      : ["React", "Node.js", "Express", "MongoDB",
-                "Next.js", "PostgreSQL"],
-  passions   : ["Clean Code", "Scalable APIs",
-                "Beautiful UIs", "Open Source"],
-  portfolio  : "https://dharmikdev.vercel.app/",
-  available  : true  // 🟢 Open to opportunities
+  name      : "Dharmik Kachariya",
+  role      : "Full Stack Developer",
+  education : "BCA – Vivekanand College, Surat",
+  location  : "Surat, Gujarat, India 🇮🇳",
+  stack     : ["React", "Node.js", "Express",
+               "MongoDB", "Next.js", "PostgreSQL"],
+  passions  : ["Clean Code", "Scalable APIs",
+               "Beautiful UIs", "Open Source"],
+  portfolio : "https://dharmikdev.vercel.app/",
+  available : true  // 🟢 Open to opportunities
 };
 ```
 
 </td>
 <td valign="top" width="40%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px;" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 </td>
 </tr>
@@ -52,7 +44,7 @@ const dharmik = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-dharmikdev.vercel.app-00F7FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D0D)](https://dharmikdev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-dharmikdev.vercel.app-00F7FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D0D)](https://dharmikdev.vercel.app/)
 
 </div>
 
@@ -115,7 +107,7 @@ const dharmik = {
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Bookora-00F7FF?style=for-the-badge&labelColor=0D0D0D)](https://bookora-frontend-jomg.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Bookora-00F7FF?style=for-the-badge&labelColor=0D0D0D)](https://bookora-frontend-jomg.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -140,7 +132,7 @@ const dharmik = {
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Brainera-7B2FFF?style=for-the-badge&labelColor=0D0D0D)](https://brainera.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Brainera-7B2FFF?style=for-the-badge&labelColor=0D0D0D)](https://brainera.vercel.app/)
 
 </td>
 </tr>
@@ -152,29 +144,54 @@ const dharmik = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dharmik-kachariya&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&border_color=00F7FF&bg_color=0D0D0D&title_color=00F7FF&icon_color=7B2FFF&text_color=ffffff" height="180" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik-kachariya&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&border_color=00F7FF&bg_color=0D0D0D&title_color=00F7FF&text_color=ffffff" height="180" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dharmik-kachariya&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FFF&text_color=C9D1D9" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik-kachariya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
 
-<br/><br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=Dharmik-kachariya&theme=tokyonight&border_radius=12&border=00F7FF&background=0D0D0D&stroke=7B2FFF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=ffffff&dates=888888" />
+<div align="center">
 
-<br/><br/>
+<img width="55%" src="https://streak-stats.demolab.com/?user=Dharmik-kachariya&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00F7FF&ring=7B2FFF&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=888888" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmik-kachariya&theme=tokyo-night&bg_color=0D0D0D&color=00F7FF&line=7B2FFF&point=ffffff&area=true&hide_border=false&border_color=00F7FF&radius=12" width="95%" />
+</div>
+
+<div align="center">
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmik-kachariya&bg_color=0D1117&color=00F7FF&line=7B2FFF&point=00F7FF&area=true&area_color=7B2FFF&hide_border=true" />
+</div>
+
+---
+
+## 🏅 Achievements & Highlights
+
+<div align="center">
+
+| 🏆 Achievement | 🔢 Count / Status |
+|:-:|:-:|
+| ⭐ Total GitHub Contributions | **196+** |
+| 🔥 Current Streak | **Active** |
+| 📁 Public Repositories | **Growing** |
+| 🚀 Live Projects Deployed | **2+** |
+| 💳 Payment Gateway Integrated | **Razorpay ✅** |
+| ☁️ Cloud Services Used | **Cloudinary · MongoDB Atlas ✅** |
+| 🔐 Auth Systems Built | **JWT · Role-Based ✅** |
+| 🎓 Certificates Generated | **PDF Auto-Gen ✅** |
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Snake
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dharmik-kachariya&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=7&title_color=00F7FF" width="95%"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharmik-kachariya/Dharmik-kachariya/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharmik-kachariya/Dharmik-kachariya/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Dharmik-kachariya/Dharmik-kachariya/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 </div>
+    
+> 💡 **To enable the snake animation**, add this GitHub Action to your profile repo:
+> `.github/workflows/snake.yml` → [Click here for setup guide](https://github.com/Platane/snk)
 
 ---
 
@@ -182,9 +199,9 @@ const dharmik = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharmik-kachariya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kachariya-dharmik-131432301/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajapatidk525@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharmik-kachariya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kachariya-dharmik-131432301/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajapatidk525@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://dharmikdev.vercel.app/)
 
 </div>
@@ -193,8 +210,12 @@ const dharmik = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Dharmik-kachariya&label=Profile%20Views&color=00F7FF&style=for-the-badge&labelColor=0D0D0D" />
+<img src="https://komarev.com/ghpvc/?username=Dharmik-kachariya&label=Profile+Views&color=00F7FF&style=for-the-badge&labelColor=0D0D0D" />
+
+<br/><br/>
+
+*"Code is not just syntax — it's how I think, create, and build the future."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:00F7FF,100:0D0D0D&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:00F7FF,100:0D0D0D&height=130&section=footer" width="100%"/>
