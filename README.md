@@ -180,21 +180,6 @@ const dharmik = {
 
 ---
 
-## 📈 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharmik-kachariya/Dharmik-kachariya/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharmik-kachariya/Dharmik-kachariya/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Dharmik-kachariya/Dharmik-kachariya/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-</div>
-    
-> 💡 **To enable the snake animation**, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml` → [Click here for setup guide](https://github.com/Platane/snk)
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
