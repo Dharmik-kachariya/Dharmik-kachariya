@@ -1,113 +1,200 @@
-<h1 align="center">Hi 👋, I'm Dharmik Kachariya</h1>
+<div align="center">
 
-<h3 align="center">MERN Stack Developer | Full Stack Web Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00F7FF,100:7B2FFF&height=200&section=header&text=Dharmik%20Kachariya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20%7C%20Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB+Developer;Building+Modern+Web+Applications"/>
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-- 🎓 **Bachelor of Computer Applications (BCA)** – Vivekanand College, Surat  
-- 💻 Passionate **MERN Stack Developer**  
-- 🚀 Experienced in building **Full Stack Web Applications, REST APIs, Authentication Systems and Dashboards**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=⚡+MERN+Stack+Developer;🚀+Full+Stack+Web+Developer;🧠+React+%7C+Node+%7C+MongoDB+%7C+Next.js;🛠+Building+Modern+Web+Applications;📦+REST+APIs+%7C+Auth+Systems+%7C+Dashboards" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+---
+
+## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+```js
+const dharmik = {
+  name       : "Dharmik Kachariya",
+  role       : "Full Stack Developer",
+  education  : "BCA – Vivekanand College, Surat",
+  location   : "Surat, Gujarat, India 🇮🇳",
+  stack      : ["React", "Node.js", "Express", "MongoDB",
+                "Next.js", "PostgreSQL"],
+  passions   : ["Clean Code", "Scalable APIs",
+                "Beautiful UIs", "Open Source"],
+  portfolio  : "https://dharmikdev.vercel.app/",
+  available  : true  // 🟢 Open to opportunities
+};
+```
+
+</td>
+<td valign="top" width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px;" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌐 Portfolio
 
-🚀 Check out my personal portfolio website where I showcase my projects, skills, and experience:
+<div align="center">
 
-🔗 **Portfolio Link**  
-https://dharmikdev.vercel.app/
+[![Portfolio](https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-dharmikdev.vercel.app-00F7FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D0D)](https://dharmikdev.vercel.app/)
+
+</div>
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=tailwind" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=postman" />
+### ⚡ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</p>
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔨 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📚 Bookora – MERN Stack Online Book Store
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Full-stack online bookstore developed using the **MERN Stack**.
+### 📚 Bookora — Online Book Store
 
-Features:
+> Full-stack online bookstore built with the **MERN Stack**, featuring a complete e-commerce experience.
 
-- Role-based authentication  
-- Admin & User dashboards  
-- Book management system  
-- Cart & Order functionality  
-- MongoDB Atlas database  
-- Fully responsive UI  
+**✨ Features:**
+- 🔐 Role-based authentication (Admin / User)
+- 🖥️ Admin & User dashboards
+- 📖 Complete book management system
+- 🛒 Cart & Order functionality
+- ☁️ MongoDB Atlas cloud database
+- 📱 Fully responsive UI
 
-🔗 **Live Demo**  
-https://bookora-frontend-jomg.vercel.app
+**🔗 Tech Used:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
----
+<br/>
 
-### 🎓 Brainera – MERN Stack Learning Management System
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Bookora-00F7FF?style=for-the-badge&labelColor=0D0D0D)](https://bookora-frontend-jomg.vercel.app)
 
-Full-featured **Learning Management System** built using the MERN stack.
+</td>
+<td width="50%" valign="top">
 
-Features:
+### 🎓 Brainera — Learning Management System
 
-- Student & Instructor roles  
-- Video-based learning system  
-- Quiz & certificate generation  
-- Razorpay payment integration  
-- Cloudinary media storage  
-- Protected routes & notifications  
+> A full-featured **LMS** platform built with the MERN stack for modern online education.
 
-🔗 **Live Demo**  
-https://brainera.vercel.app/
+**✨ Features:**
+- 👨‍🎓 Student & Instructor roles
+- 🎥 Video-based learning system
+- 📝 Quiz & certificate generation
+- 💳 Razorpay payment integration
+- ☁️ Cloudinary media storage
+- 🔒 Protected routes & notifications
+
+**🔗 Tech Used:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Brainera-7B2FFF?style=for-the-badge&labelColor=0D0D0D)](https://brainera.vercel.app/)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dharmik-kachariya&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dharmik-kachariya&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&border_color=00F7FF&bg_color=0D0D0D&title_color=00F7FF&icon_color=7B2FFF&text_color=ffffff" height="180" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik-kachariya&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&border_color=00F7FF&bg_color=0D0D0D&title_color=00F7FF&text_color=ffffff" height="180" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik-kachariya&layout=compact&theme=tokyonight"/>
+<br/><br/>
 
-</p>
+<img src="https://streak-stats.demolab.com?user=Dharmik-kachariya&theme=tokyonight&border_radius=12&border=00F7FF&background=0D0D0D&stroke=7B2FFF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=ffffff&dates=888888" />
 
-<p align="center">
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Dharmik-kachariya&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmik-kachariya&theme=tokyo-night&bg_color=0D0D0D&color=00F7FF&line=7B2FFF&point=ffffff&area=true&hide_border=false&border_color=00F7FF&radius=12" width="95%" />
 
-</p>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dharmik-kachariya&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=7&title_color=00F7FF" width="95%"/>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
+<div align="center">
 
-<a href="https://github.com/Dharmik-kachariya">GitHub</a> |
-<a href="https://www.linkedin.com/in/kachariya-dharmik-131432301/">LinkedIn</a> |
-<a href="mailto:prajapatidk525@gmail.com">Email</a>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharmik-kachariya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kachariya-dharmik-131432301/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajapatidk525@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://dharmikdev.vercel.app/)
 
-</p>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Dharmik-kachariya&label=Profile%20Views&color=00F7FF&style=for-the-badge&labelColor=0D0D0D" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:00F7FF,100:0D0D0D&height=120&section=footer" width="100%"/>
