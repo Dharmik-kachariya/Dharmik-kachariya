@@ -167,7 +167,7 @@ const dharmik = {
 
 | 🏆 Achievement | 🔢 Count / Status |
 |:-:|:-:|
-| ⭐ Total GitHub Contributions | **196+** |
+| ⭐ Total GitHub Contributions | **210+** |
 | 🔥 Current Streak | **Active** |
 | 📁 Public Repositories | **Growing** |
 | 🚀 Live Projects Deployed | **2+** |
